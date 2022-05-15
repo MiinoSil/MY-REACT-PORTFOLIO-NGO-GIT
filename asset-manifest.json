@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/MY-REACT-PORTFOLIO-NGO-GIT/static/css/main.4a18ddd1.chunk.css",
+    "main.js": "/MY-REACT-PORTFOLIO-NGO-GIT/static/js/main.0ddaf64e.chunk.js",
+    "main.js.map": "/MY-REACT-PORTFOLIO-NGO-GIT/static/js/main.0ddaf64e.chunk.js.map",
+    "runtime-main.js": "/MY-REACT-PORTFOLIO-NGO-GIT/static/js/runtime-main.81132263.js",
+    "runtime-main.js.map": "/MY-REACT-PORTFOLIO-NGO-GIT/static/js/runtime-main.81132263.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/MY-REACT-PORTFOLIO-NGO-GIT/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f3047dac.chunk.js": "/MY-REACT-PORTFOLIO-NGO-GIT/static/js/2.f3047dac.chunk.js",
+    "static/js/2.f3047dac.chunk.js.map": "/MY-REACT-PORTFOLIO-NGO-GIT/static/js/2.f3047dac.chunk.js.map",
+    "index.html": "/MY-REACT-PORTFOLIO-NGO-GIT/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/MY-REACT-PORTFOLIO-NGO-GIT/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.4a18ddd1.chunk.css.map": "/MY-REACT-PORTFOLIO-NGO-GIT/static/css/main.4a18ddd1.chunk.css.map",
+    "static/js/2.f3047dac.chunk.js.LICENSE.txt": "/MY-REACT-PORTFOLIO-NGO-GIT/static/js/2.f3047dac.chunk.js.LICENSE.txt",
+    "static/media/Basic React Porfolio.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/Basic React Porfolio.e5974326.jpg",
+    "static/media/Code Quiz.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/Code Quiz.dcf79c76.jpg",
+    "static/media/ECOMM Backend.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/ECOMM Backend.97030031.jpg",
+    "static/media/Ingredient Meal Planner.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/Ingredient Meal Planner.211f7889.jpg",
+    "static/media/Note Taker.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/Note Taker.37233f08.jpg",
+    "static/media/Password Generator.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/Password Generator.6ca0d584.jpg",
+    "static/media/Pixel Warrior.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/Pixel Warrior.5e6cb2f1.jpg",
+    "static/media/Readme Generator.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/Readme Generator.8bdb0585.jpg",
+    "static/media/SQL Employee Tracker.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/SQL Employee Tracker.48f126c3.jpg",
+    "static/media/Social Network Backend.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/Social Network Backend.8106c982.jpg",
+    "static/media/Team Profile Generator.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/Team Profile Generator.26fdeea2.jpg",
+    "static/media/Tech Blog.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/Tech Blog.f42c245a.jpg",
+    "static/media/Text Editor.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/Text Editor.cb358bbf.jpg",
+    "static/media/Weather Dashboard.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/Weather Dashboard.1c0599ee.jpg",
+    "static/media/Work Day Scheduler.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/Work Day Scheduler.e2b25656.jpg",
+    "static/media/cover-image.2e1410d6.jpg": "/MY-REACT-PORTFOLIO-NGO-GIT/static/media/cover-image.2e1410d6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81132263.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f3047dac.chunk.js",
+    "static/css/main.4a18ddd1.chunk.css",
+    "static/js/main.0ddaf64e.chunk.js"
+  ]
+}
